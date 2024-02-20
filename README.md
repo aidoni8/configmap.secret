@@ -1,0 +1,2 @@
+# configmap.secret
+kubernetes testing
